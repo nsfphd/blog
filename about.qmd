@@ -1,19 +1,18 @@
 ---
-title: "About"
+title: "About Me"
 image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.social/@noelletakespics
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
-
+      href: https://www.linkedin.com/in/noellesfosterphd/
+#    - icon: github
+#      text: Github
+#      href: https://github.com/nsfphd
 ---
 
-About this blog
+Keenly interested in how different social groups interact through their artifacts, be the artifacts in question data, processes, or actual physical objects. Which is an elaborate way of saying that while my personal research and professional work don't look related at first, they really are.

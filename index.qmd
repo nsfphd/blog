@@ -1,5 +1,5 @@
 ---
-title: "blog"
+title: "Noelle S. Foster Feliciano, Ph.D."
 listing:
   contents: posts
   sort: "date desc"
@@ -10,5 +10,3 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
-
-
