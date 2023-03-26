@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Noelle S. Foster Feliciano, Ph.D.",
+    "title": "A blog (mostly) about boundary objects",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 26, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Feliciano is silent.\n\n\n\n\n\n\n\npersonal\n\n\ndata\n\n\n\n\nHow I started\n\n\n\n\n\n\nMar 26, 2023\n\n\nNoëlle S. Foster\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 23, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "So what is a boundary object?\n\n\n\n\n\n\n\ntheory\n\n\n\n\nHow I got here\n\n\n\n\n\n\nMar 27, 2023\n\n\nNoëlle S. Foster\n\n\n\n\n\n\n\n\nThe Feliciano is silent.\n\n\n\n\n\n\n\npersonal\n\n\ndata\n\n\n\n\nHow I got here\n\n\n\n\n\n\nMar 26, 2023\n\n\nNoëlle S. Foster\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -33,5 +33,12 @@
     "title": "The Feliciano is silent.",
     "section": "",
     "text": "The Feliciano is silent\nI come by my interest in how different groups interact over a specific object via a few routes, but let’s start with my name. It’s Foster, or it’s Foster Feliciano, but never Feliciano. This is because it’s a Latin American name, and in Latin America last names are composed of two elements: the primer apellido or what English speakers call the last name, and the segundo apellido which most would call the mother’s maiden name. It’s standard to use both for all but the most informal interactions. It’s so standard that when my dad set up his bank account in Puerto Rico, the bank went into his social security record to pull out the segundo apellido he must have OBVIOUSLY forgotten to fill in on the account forms."
+  },
+  {
+    "objectID": "posts/3_26_23/index.html",
+    "href": "posts/3_26_23/index.html",
+    "title": "The Feliciano is silent.",
+    "section": "",
+    "text": "I come by my interest in how different groups interact over a specific object via a few routes, but let’s start with my name. It’s Foster, or it’s Foster Feliciano, but never Feliciano. This is because it’s a Latin American name, and in Latin America last names are composed of two elements: the primer apellido or what English speakers call the last name, and the segundo apellido which most would call the mother’s maiden name. It’s standard to use both for all but the most informal interactions. It’s so standard that when my dad set up his bank account in Puerto Rico, the bank went into his social security record to pull out and correct the missing segundo apellido he must have OBVIOUSLY forgotten to fill in on the account forms.\nSo why is this a data problem? For starters, when was the last time you saw an English language database structure that had a field for segundo apellido? And, while we’re on the subject, how does using “mother’s maiden name” as a security question work when everyone knows your mother’s maiden name, because it’s right there in your name?\nIn this case, the security question made an assumption about opacity that is only true in an English name pattern. This irreconcilability is hardly unique between English and Spanish. In Italy, for instance, it’s considered unusual for a woman to take her husband’s name upon marriage, so again, the maiden name is transparent. Fortunately, most of the security questions I run into these days abjure the maiden name for something more idiosyncratic, and of course there’s always the option of just making something up (the family next door… the middle name of your childhood best friend… your favorite Power Ranger…) But it illustrates my primary interest: we’ve had to adjust the security management technology to correct from the interests of a single group (English speakers) to more than one (speakers of other languages.) It’s a tiny question, but the adjustment had to happen in order for the technology to work as designed. Studying these kinds of adjustments and how they happen is my primary interest."
   }
 ]

@@ -1,0 +1,11 @@
+---
+title: "So what is a boundary object?"
+date: "2023-3-27"
+categories: ['theory']
+description: "How I got here"
+execute:
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---

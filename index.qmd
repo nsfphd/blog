@@ -1,7 +1,7 @@
 ---
-title: "Noelle S. Foster Feliciano, Ph.D."
+title: "A blog (mostly) about boundary objects"
 listing:
-  contents: posts
+  contents: posts/**/*.qmd
   sort: "date desc"
   type: default
   categories: true
