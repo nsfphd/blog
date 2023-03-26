@@ -1,0 +1,15 @@
+---
+title: "The Feliciano is silent."
+date: "2023-3-26"
+categories: ['personal', 'data']
+description: "How I started"
+execute:
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+### The Feliciano is silent
+
+I come by my interest in how different groups interact over a specific object via a few routes, but let's start with my name. It's Foster, or it's Foster Feliciano, but never Feliciano. This is because it's a Latin American name, and in Latin America last names are composed of two elements: the *primer apellido* or what English speakers call the last name, and the *segundo apellido* which most would call the mother's maiden name. It's standard to use both for all but the most informal interactions. It's so standard that when my dad set up his bank account in Puerto Rico, the bank went into his social security record to pull out the *segundo apellido* he must have OBVIOUSLY forgotten to fill in on the account forms.
