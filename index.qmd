@@ -1,5 +1,5 @@
 ---
-title: "A blog (mostly) about boundary objects"
+title: "research thoughts"
 listing:
   contents: posts/**/*.qmd
   sort: "date desc"

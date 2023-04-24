@@ -6,28 +6,30 @@ about:
   links:
     - icon: mastodon
       text: Mastodon
-      href: https://mastodon.social/@noelletakespics
+      href: https://h-net.social/@noellesfoster
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/noellesfosterphd/
-    - icon: github
-      text: Github
-      href: https://github.com/nsfphd
+#    - icon: github
+#      text: Github
+#      href: https://github.com/nsfphd
 ---
 
-In my day job, I'm a clinical informaticist for the Robert Wood Johnson Medical School, Rutgers University, specializing in secondary data use, or the taking of data collected for clinical use and turning it into something that can be used in research. My personal research is on the debates at the turn of the 20th century between professional and lay audiences in public health production, and particularly how physicians, consumers, and farmers came together over the question of clean milk production.
+By day, I'm a clinical informaticist for the Robert Wood Johnson Medical School, Rutgers University, specializing in secondary data use, or the taking of data collected for clinical use and turning it into something that can be used in research. My personal research is on the social dimensions of US medicine from 1890-ish to WWI, particularly as it relates to pediatrics and the emergence of germ theory, vaccination, and the overall change in understanding of public health across various social groups.
 
 I'm keenly interested in how different social groups interact through their artifacts, be the artifacts in question data, processes, or actual physical objects. Which is an elaborate way of saying that while my personal research and professional work don't look related at first, they really are.
 
 ### Education
 
-**Rensselaer Polytechnic Institute** \| Troy, NY
-PhD in Science and Technology Studies
+**Rensselaer Polytechnic Institute** \| Troy, NY PhD in Science and Technology Studies
 
 Dissertation: "Contingent Mechanization: The Case of American Dairying"
 
-**Rensselaer Polytechnic Institute** \| Troy, NY
-MS in Information Technology
+**Rensselaer Polytechnic Institute** \| Troy, NY MS in Information Technology
 
 **Mount Holyoke College** \| South Hadley, MD\
 BA in Music
+
+### Disclaimer
+
+All views expressed on this site are my own and do not represent the opinions of Rutgers University, Robert Wood Johnson Medical School, the State of New Jersey, or another other entity with which I am currently or have previously been affiliated. This site will probably raise more questions than provide answers and should not be considered as a substitute for doing your own academic research. Many of the historical materials discussed are based on outdated science and should be considered for entertainment purposes only. I just write about physicians and am not one myself. Nothing posted here should be construed as medical advice.
