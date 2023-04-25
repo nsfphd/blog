@@ -7,11 +7,12 @@ website:
   description: "This is where I think spontaneous thoughts."
   navbar:
     right:
+      - archive.qmd
       - about.qmd
-      - icon: github
-        href: https://github.com/nsfphd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/noellesfosterphd/
       - icon: mastodon
-        href: https://mastodon.social/@noelletakespics
+        href: https://h-net.social/@noellesfoster
 format:
   html:
     theme: lumen
